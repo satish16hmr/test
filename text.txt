@@ -1,0 +1,26 @@
+Hello
+@Harshil Bodara Sir,
+Here are the latest updates for Social-media-app as of July 8,2025:
+List of Completed Tasks:-
+    1) I have Completed learned about Classes & objects in typescript.[Done]
+    2) I have Completed Constructor and this keyword.[Done]
+    3) I have learn access modifier.[Done]
+            -Public
+            -Private
+            -Protected
+    4)
+Thanks!
+
+
+
+
+
+
+
+
+
+defining interfaces
+using interfaces to define object shapes 
+extending interfaces
+type aliases 
+intersection types
