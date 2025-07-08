@@ -34,6 +34,7 @@ class User {
         this.ageee = ageee;
         this.gender = gender;
         this.city = 'city';
+        this.address = 'address';
     }
     use() {
         this.name = "fjkin";
